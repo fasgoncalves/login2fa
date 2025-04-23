@@ -104,7 +104,7 @@ Desenvolvido com paixão por [Francisco Gonçalves](https://github.com/seu-utili
 
 ## 🌟 Captura de Ecrã
 
-![login2fa](https://github.com/seu-utilizador/login2fa/assets/preview.png)
+![login2fa](https://github.com/fasgoncalves/login2fa/assets/preview.png)
 
 ---
 
