@@ -1,5 +1,17 @@
 # 🛡️ login2fa — Login Seguro com Dupla Autenticação (2FA) via NiceGUI e NTFY
 
+![Último Commit](https://img.shields.io/github/last-commit/fasgoncalves/login2fa)
+![Versão](https://img.shields.io/badge/version-1.0.0-blue)
+![Licença](https://img.shields.io/github/license/fasgoncalves/login2fa)
+
+`login2fa` é um módulo modular e elegante para Python, desenhado com o poder do [NiceGUI](https://nicegui.io/) para aplicações web modernas.  
+Implementa um **sistema completo de login com 2FA** (autenticação de dois fatores), integrando:
+- Cookies de sessão persistentes por 12 horas
+- Notificações via [ntfy](https://ntfy.sh) com token aleatório
+- Verificação por IP local (bypass do 2FA em rede interna)
+- Total compatibilidade com sistemas atrás de proxy
+- Design moderno, limpo e responsivo
+
 `login2fa` é um módulo modular e elegante para Python, desenhado com o poder do [NiceGUI](https://nicegui.io/) para aplicações web modernas.  
 Implementa um **sistema completo de login com 2FA** (autenticação de dois fatores), integrando:
 - Cookies de sessão persistentes por 12 horas
