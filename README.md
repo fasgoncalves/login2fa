@@ -47,9 +47,9 @@ configurar_login_2fa({
         'database': 'authusers'
     },
     'ntfy': {
-        'url': 'http://192.168.10.32:9000',
-        'user': 'fgoncalves',
-        'pass': 'vu#Al1'
+        'url': 'http://192.168.x.x',
+        'user': 'user',
+        'pass': 'pass'
     },
     'rota_sucesso': '/painel',
     'titulo_login': 'Acesso Seguro ao Sistema'
