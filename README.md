@@ -42,9 +42,9 @@ from login2fa import configurar_login_2fa
 configurar_login_2fa({
     'db': {
         'host': 'localhost',
-        'user': 'root',
-        'password': 'yakarais',
-        'database': 'authusers'
+        'user': 'userdb',
+        'password': 'passdb',
+        'database': 'dbname'
     },
     'ntfy': {
         'url': 'http://192.168.x.x',
